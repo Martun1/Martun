@@ -36,6 +36,13 @@ I build **security tools that I actually use while studying**. Each one connects
 | 🧮 [**subnet-forge**](https://github.com/Martun1/subnet-forge) | CCNA subnetting & VLSM planner that **generates router-on-a-stick + DHCP + OSPF config**, with a quiz mode for exam practice | C++17 · CMake |
 | ⛨ [**hashguard**](https://github.com/Martun1/hashguard) | File Integrity Monitor with **SHA-256 written from scratch** (NIST-verified) that detects webshells, backdoors and deleted logs | C++17 · CMake |
 
+## 🎮 Security games
+
+| Game | Description | Stack |
+|---|---|---|
+| ⛨ [**Packet Patrol**](https://github.com/Martun1/packet-patrol) · [▶ play](https://martun1.github.io/packet-patrol/) | Real-time browser game: you're the firewall. Inspect packets, stop SQLi/Log4Shell/brute force, and **write real Cisco ACLs** to automate defence | JavaScript · Canvas |
+| 💀 [**BREACH**](https://github.com/Martun1/breach-ctf) | Terminal CTF with 8 story missions: recon, decoding, log forensics, hash cracking, XOR, subnetting. Every tool is built from scratch | C++17 |
+
 <details>
 <summary><b>More projects</b></summary>
 
@@ -49,10 +56,10 @@ I build **security tools that I actually use while studying**. Each one connects
 ## 💻 Tech stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,sqlite,bash,linux,kali,cmake,git,github,githubactions,clion,pycharm,raspberrypi&perline=13" />
+<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,sqlite,bash,linux,kali,cmake,git,github,githubactions,clion,pycharm,raspberrypi&perline=16" />
 </p>
 
-- **Languages:** Python (advanced, OOP, asyncio), C++17, SQL, Bash
+- **Languages:** Python (advanced, OOP, asyncio), C++17, JavaScript, SQL, Bash
 - **Security:** network & web pentesting methodology, enumeration, Burp Suite, Nmap, Metasploit, Hydra, Gobuster, log analysis, MITRE ATT&CK, hardening
 - **Networking:** subnetting/VLSM, VLANs & trunking, OSPF, ACLs, DHCP, NAT, SSH/AAA hardening, Packet Tracer
 - **Hardware & labs:** Raspberry Pi 4 (Linux, networking and security labs), Raspberry Pi Pico (embedded basics), VirtualBox home lab
