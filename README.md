@@ -35,6 +35,9 @@ I build **security tools that I actually use while studying**. Each one connects
 | ✈️ [**recon-pilot**](https://github.com/Martun1/recon-pilot) | eJPT-style recon co-pilot: async port scan, banner grabbing, vulnerable version alerts, copy-paste next steps, and Markdown pentest notes | Python · asyncio |
 | 🧮 [**subnet-forge**](https://github.com/Martun1/subnet-forge) | CCNA subnetting & VLSM planner that **generates router-on-a-stick + DHCP + OSPF config**, with a quiz mode for exam practice | C++17 · CMake |
 | ⛨ [**hashguard**](https://github.com/Martun1/hashguard) | File Integrity Monitor with **SHA-256 written from scratch** (NIST-verified) that detects webshells, backdoors and deleted logs | C++17 · CMake |
+| 🎣 [**phishguard**](https://github.com/Martun1/phishguard) | Explainable phishing email analyzer: SPF/DKIM/DMARC, look-alike & **punycode homograph** domains, deceptive links, BEC. Detects EN + BG | Python |
+| 🔑 [**jwt-lab**](https://github.com/Martun1/jwt-lab) · [▶ live](https://martun1.github.io/jwt-lab/) | In-browser JSON Web Token lab: decode, audit, **crack weak HS256 secrets** and forge tokens with WebCrypto | JavaScript |
+| 🖼️ [**stegolab**](https://github.com/Martun1/stegolab) | Hide files in images (LSB steganography) and **detect** them with chi-square steganalysis. SHA-256 keystream from scratch | C++17 · CMake |
 
 ## 🎮 Security games
 
