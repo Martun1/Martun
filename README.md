@@ -38,6 +38,11 @@ I build **security tools that I actually use while studying**. Each one connects
 | 🎣 [**phishguard**](https://github.com/Martun1/phishguard) | Explainable phishing email analyzer: SPF/DKIM/DMARC, look-alike & **punycode homograph** domains, deceptive links, BEC. Detects EN + BG | Python |
 | 🔑 [**jwt-lab**](https://github.com/Martun1/jwt-lab) · [▶ live](https://martun1.github.io/jwt-lab/) | In-browser JSON Web Token lab: decode, audit, **crack weak HS256 secrets** and forge tokens with WebCrypto | JavaScript |
 | 🖼️ [**stegolab**](https://github.com/Martun1/stegolab) | Hide files in images (LSB steganography) and **detect** them with chi-square steganalysis. SHA-256 keystream from scratch | C++17 · CMake |
+| 🔭 [**reconscope**](https://github.com/Martun1/reconscope) | **Attack Surface Report Card** with a web GUI: passive OSINT (DNS, certificate transparency, TLS, security headers, RDAP) graded **A–F** with concrete fixes | Python · Web GUI |
+| 🍯 [**honeytrap**](https://github.com/Martun1/honeytrap) | Async honeypot that lures attackers, fingerprints their exploits (Log4Shell, Shellshock, SQLi, webshells) against a signature DB and harvests credentials | Python · asyncio |
+| 🕵️ [**cipher-sleuth**](https://github.com/Martun1/cipher-sleuth) | Auto-detects and breaks classical ciphers (Caesar, Vigenère, XOR, Base64) using frequency analysis and the index of coincidence | C++17 · CMake |
+| 📡 [**redos-radar**](https://github.com/Martun1/redos-radar) | Finds catastrophic-backtracking (ReDoS) regexes, builds the proof-of-concept evil input, and times the match to prove it is exploitable | Python |
+
 
 ## 🎮 Security games
 
