@@ -26,6 +26,16 @@ I build **security tools that I actually use while studying**. Each one connects
 **eJPT** (the attacker's view) and **CCNA** (how networks are built) with the defender's question:
 *how do we detect and prevent this?*
 
+## 🎬 Featured work
+
+<p align="center">
+  <a href="https://github.com/Martun1/reconscope"><img src="https://raw.githubusercontent.com/Martun1/reconscope/main/docs/gui.png" width="48%" alt="ReconScope attack surface report card"></a>
+  <a href="https://github.com/Martun1/cipher-sleuth"><img src="https://raw.githubusercontent.com/Martun1/cipher-sleuth/main/docs/vigenere.png" width="48%" alt="cipher-sleuth breaking a Vigenere cipher"></a>
+</p>
+<p align="center"><sub><b>ReconScope</b> — passive-OSINT attack-surface scanner with a web GUI&nbsp;&nbsp;·&nbsp;&nbsp;<b>cipher-sleuth</b> — auto-breaks classical ciphers</sub></p>
+
+> 💼 I also design and ship my own product — **[DropDirect](https://dropdirect.store)**, a peer-to-peer, end-to-end encrypted file-transfer app (WebRTC · Supabase · Netlify) that sends large, confidential files browser-to-browser with no server in the middle.
+
 ## 🛠️ Featured security projects
 
 | Project | What it does | Stack |
